@@ -6,7 +6,7 @@
         }
         else 
         {
-            document.getElementById("battery").src = "https://www.pikminwiki.com/images/a/a3/Fuel_Reservoir_icon.png";
+            document.getElementById("battery").src = "https://www.pikminwiki.com/images/b/ba/Proton_AA_icon.png";
         }
 function changeImage1() {
 
