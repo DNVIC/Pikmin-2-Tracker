@@ -1,12 +1,12 @@
  function changeImage() {
 
-        if (document.getElementById("battery").src == "http://www.userinterfaceicons.com/80x80/minimize.png") 
+        if (document.getElementById("battery").src == "https://www.pikminwiki.com/images/b/ba/Proton_AA_icon.png") 
         {
-            document.getElementById("battery").src = "http://www.userinterfaceicons.com/80x80/maximize.png";
+            document.getElementById("battery").src = "https://www.pikminwiki.com/images/a/a3/Fuel_Reservoir_icon.png";
         }
         else 
         {
-            document.getElementById("battery").src = "http://www.userinterfaceicons.com/80x80/minimize.png";
+            document.getElementById("battery").src = "https://www.pikminwiki.com/images/a/a3/Fuel_Reservoir_icon.png";
         }
 function changeImage1() {
 
